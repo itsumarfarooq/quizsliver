@@ -54,7 +54,7 @@
         "https://cuonline.ciit-attock.edu.pk:8089/*",
         "http://cuonline.ciit-attock.edu.pk:8089/*",
         "https://cuonline.ciitvehari.edu.pk:8091/*",
-        "http://cuonline.ciitvehari.edu.pk:8091/*",
+        "http://cuonline.ciitvehari.edu.pk:8091/*"
       ],
       "js": [
         "injector.js"
