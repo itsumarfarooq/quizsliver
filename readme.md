@@ -1,8 +1,8 @@
 # Quiz Sliver
 
-COMSATS hybrid quizzes is the most fun part of whole university life. As everyone else, we also solved them in groups. We used to take screenshot of difficult mcqs and when they repeat from someone else we just check them to answer correctl. But being a clever mind I procedded one step ahead and built a chrome extension that automatically save each MCQ you answer and when that MCQ is repeat it automatically mark the correct and and submit.
+COMSATS hybrid quizzes is the most fun part of whole university life. As everyone else, we also solved them in groups. We used to take screenshots of difficult MCQs and when they repeat from someone else we just check them to answer correctly. But being a clever mind I proceeded one step ahead and built a chrome extension that automatically save each MCQ you answer and when that MCQ is repeat it automatically mark the correct and and submit.
 
-For a long period of time that was kept in my PC. Recently I randomly found in my PC and now I'm sharing it publically. I don't know but may its already popular among the students, because I remember I shared it with some close friends.
+For a long period of time that was kept in my PC. Recently I randomly found in my PC and now I'm sharing it publicly. I don't know but may its already popular among the students, because I remember I shared it with some close friends.
 
 ## Is it legal?
 **TBD:** Most probably not.
@@ -29,9 +29,9 @@ Below are the steps you can follow to update the extension:
 3. Install it by following the steps described above.
 
 ## How much data we have?
-The main thing that matters in not code but the MCQ's data the extension had. All the MCQ's data is saved in a centralized database so if anyone ever had solved any MCQ at any time, you don't have to solve that again :).
+The main thing that matters in not code but the MCQ's data the extension had. All the MCQs data is saved in a centralized database so if anyone ever had solved any MCQ at any time, you don't have to solve that again :).
 
-Unfortunetly, I never used the final version myself but As I shared it with my friends, I'm 100% sure that this will alreay be use by may students. Which means there should be alot of data.
+Unfortunately, I never used the final version myself but As I shared it with my friends, I'm 100% sure that this will already be use by may students. Which means there should be a lot of data.
 
 
 ## For which campuses it is?
@@ -46,7 +46,7 @@ It not only works for COMSATS Islamabad but also supports other campuses. Below 
 
 ## Disclaimer
 
-This extension is provided as is without any warranty of any kind. Also Author is not resonsible for any kind of damage cuse by this piece of software. **USE AT YOU OWN RISK**.
+This extension is provided as is without any warranty of any kind. Also Author is not responsible for any kind of damage caused by this piece of software. **USE AT YOU OWN RISK**.
 
 ## Contact Me
 
