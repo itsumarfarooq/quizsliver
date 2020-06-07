@@ -4,12 +4,15 @@ COMSATS hybrid quizzes is the most fun part of whole university life. As everyon
 
 For a long period of time that was kept in my PC. Recently I randomly found in my PC and now I'm sharing it publicly. I don't know but may its already popular among the students, because I remember I shared it with some close friends.
 
-## Is it legal?
+## FAQs
+
+### Is it legal?
 **TLDR:** Most probably not.
 
 But the point to ponder is we are not doing some illegal. I just automated the process that students even before me were doing. So this extension is as wrong as solving quizzes in groups in wrong.
 
-## Which subjects are suported?
+### Which subjects are suported?
+**TLDR:** Yes it support each and every subject.
 I had frequently asked which subjects are supported by this extension. And the short answer is it support quizzes for all the subjects. But it has more data for RWS than other subjects, but if you use this extension the database will get stronger and will be helpful for the joniors.
 
 ## How to install??
