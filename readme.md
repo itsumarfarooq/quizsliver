@@ -5,7 +5,7 @@ COMSATS hybrid quizzes is the most fun part of whole university life. As everyon
 For a long period of time that was kept in my PC. Recently I randomly found in my PC and now I'm sharing it publicly. I don't know but may its already popular among the students, because I remember I shared it with some close friends.
 
 ## Is it legal?
-**TBD:** Most probably not.
+**TLDR:** Most probably not.
 
 But the point to ponder is we are not doing some illegal. I just automated the process that students even before me were doing. So this extension is as wrong as solving quizzes in groups in wrong.
 
