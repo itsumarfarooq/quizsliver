@@ -50,4 +50,6 @@ This extension is provided as is without any warranty of any kind. Also Author i
 
 ## Contact Me
 
-If you found any issue or wanna suggest something you can open an issue on github. You can also contact me personally at [harispasha@protonmail.com](mailto:harispasha@protonmail.com)
+If you found any issue or wanna suggest something you can open an issue on github. You can also contact me personally at [harispasha@protonmail.com](mailto:harispasha@protonmail.com) or join us on Discord:
+
+[![](https://discordapp.com/api/guilds/699000998877986896/embed.png?style=banner2)](https://discord.gg/QHNBZBD)
