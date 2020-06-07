@@ -9,6 +9,9 @@ For a long period of time that was kept in my PC. Recently I randomly found in m
 
 But the point to ponder is we are not doing some illegal. I just automated the process that students even before me were doing. So this extension is as wrong as solving quizzes in groups in wrong.
 
+## Which subjects are suported?
+I had frequently asked which subjects are supported by this extension. And the short answer is it support quizzes for all the subjects. But it has more data for RWS than other subjects, but if you use this extension the database will get stronger and will be helpful for the joniors.
+
 ## How to install??
 
 Now how can you install it on your PC? Below are the steps you can follow:
