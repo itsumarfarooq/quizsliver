@@ -13,6 +13,7 @@ But the point to ponder is we are not doing some illegal. I just automated the p
 
 ### Which subjects are suported?
 **TLDR:** Yes it support each and every subject.
+
 I had frequently asked which subjects are supported by this extension. And the short answer is it support quizzes for all the subjects. But it has more data for RWS than other subjects, but if you use this extension the database will get stronger and will be helpful for the joniors.
 
 ## How to install??
