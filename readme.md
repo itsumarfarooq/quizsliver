@@ -1,3 +1,5 @@
+# NOTE: The ownership of the extension has been transfered to nmanumr here is the new link (https://github.com/nmanumr/quizsliver). Also note that the installation instructions are different please read them before installing the extension.
+
 # Quiz Sliver
 
 COMSATS hybrid quizzes is the most fun part of whole university life. As everyone else, we also solved them in groups. We used to take screenshots of difficult MCQs and when they repeat from someone else we just check them to answer correctly. But being a clever mind I proceeded one step ahead and built a chrome extension that automatically save each MCQ you answer and when that MCQ is repeat it automatically mark the correct and and submit.
